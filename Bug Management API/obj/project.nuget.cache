@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XU+0YrQYTsyLp1io/P/+NT7iTEToUJu5a6rvm8ZJoRz3RpMP2r4Yip4BFMCGabIJoN+2qdQEByuC2Uxhlb/oIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Octavio\\source\\repos\\Bug Management API\\Bug Management API\\Bug Management API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Octavio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Octavio\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Octavio\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Octavio\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Octavio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Octavio\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
